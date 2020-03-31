@@ -20,7 +20,7 @@ export default class Welcome extends Component {
     componentDidMount() {
         // TODO Implement real project loading here.
         const placeholderProjects = [
-            {id: 1, title: "Cool project", productOwner: 'Brane', scrumMaster: 'Stane'},
+            {id: 1, title: "Cool project 1", productOwner: 'Brane', scrumMaster: 'Stane'},
             {id: 2, title: "Cool project 2", productOwner: 'Brane', scrumMaster: 'Stane'},
             {id: 3, title: "Cool project 3", productOwner: 'Brane', scrumMaster: 'Stane'},
             {id: 4, title: "Cool project 4", productOwner: 'Brane', scrumMaster: 'Stane'},
